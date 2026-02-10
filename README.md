@@ -68,9 +68,17 @@ This project simulates a real-world election process with admin-controlled voter
 <img width="307" height="234" alt="image" src="https://github.com/user-attachments/assets/d0e9bc80-a69e-483f-bc03-5f8022e4f6aa" />
 
 3. Add Candidate
-<img width="463" height="363" alt="image" src="https://github.com/user-attachments/assets/c1dac527-5d69-4784-a57e-8eb4e39b11b6" />
+<img width="463" height="363" alt="image" src="https://github.com/user-attachments/assets/22cd93f1-ac04-407e-8787-4a4577d29626" />
 
 4. Add Voter
+<img width="411" height="378" alt="image" src="https://github.com/user-attachments/assets/a52cb2b7-a7ed-404e-b5b4-c990be7c5416" />
 
+5. Voting Open/Close
+<img width="309" height="319" alt="image" src="https://github.com/user-attachments/assets/cf7063c8-4f68-4f81-98c4-cc055555cf65" />
+<img width="304" height="296" alt="image" src="https://github.com/user-attachments/assets/6d7b2757-3937-4cc4-8011-7b82c47031cd" />
 
+6. Cast Vote
+<img width="952" height="271" alt="image" src="https://github.com/user-attachments/assets/193f1c68-0671-4cf4-8c8b-c6f9ac596be3" />
 
+7. View Results
+<img width="956" height="635" alt="image" src="https://github.com/user-attachments/assets/54999df6-9e31-4d0c-a0bf-81cd3885e43e" />
